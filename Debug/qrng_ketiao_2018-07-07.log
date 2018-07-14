@@ -1,0 +1,218 @@
+2018-07-07 16:07:39,315 - __main__ - INFO - CONFigure:RAND 4193,0
+2018-07-07 16:07:39,329 - __main__ - INFO - OK
+2018-07-07 16:07:40,234 - __main__ - INFO - CONFigure:RAND 2417,0
+2018-07-07 16:07:40,250 - __main__ - INFO - OK
+2018-07-07 16:07:41,155 - __main__ - INFO - CONFigure:RAND 4364,0
+2018-07-07 16:07:41,171 - __main__ - INFO - OK
+2018-07-07 16:07:42,075 - __main__ - INFO - CONFigure:RAND 8193,0
+2018-07-07 16:07:42,092 - __main__ - INFO - OK
+2018-07-07 16:07:42,996 - __main__ - INFO - CONFigure:RAND 4681,0
+2018-07-07 16:07:43,012 - __main__ - INFO - OK
+2018-07-07 16:07:43,917 - __main__ - INFO - CONFigure:RAND 1050,0
+2018-07-07 16:07:43,931 - __main__ - INFO - OK
+2018-07-07 16:07:44,836 - __main__ - INFO - CONFigure:RAND 3441,0
+2018-07-07 16:07:44,852 - __main__ - INFO - OK
+2018-07-07 16:07:45,757 - __main__ - INFO - CONFigure:RAND 4082,0
+2018-07-07 16:07:45,773 - __main__ - INFO - OK
+2018-07-07 16:07:46,677 - __main__ - INFO - CONFigure:RAND 7046,0
+2018-07-07 16:07:46,694 - __main__ - INFO - OK
+2018-07-07 16:07:47,598 - __main__ - INFO - CONFigure:RAND 5351,0
+2018-07-07 16:07:47,614 - __main__ - INFO - OK
+2018-07-07 16:07:48,519 - __main__ - INFO - CONFigure:RAND 1444,0
+2018-07-07 16:07:48,533 - __main__ - INFO - OK
+2018-07-07 16:07:49,438 - __main__ - INFO - CONFigure:RAND 1410,0
+2018-07-07 16:07:49,486 - __main__ - INFO - OK
+2018-07-07 16:07:50,391 - __main__ - INFO - CONFigure:RAND 0380,0
+2018-07-07 16:07:51,404 - __main__ - INFO - 
+2018-07-07 16:07:52,309 - __main__ - INFO - CONFigure:RAND 3430,0
+2018-07-07 16:07:53,323 - __main__ - INFO - 
+2018-07-07 16:07:54,227 - __main__ - INFO - CONFigure:RAND 4516,0
+2018-07-07 16:07:55,242 - __main__ - INFO - 
+2018-07-07 16:07:56,147 - __main__ - INFO - CONFigure:RAND 3913,0
+2018-07-07 16:07:57,161 - __main__ - INFO - 
+2018-07-07 16:07:58,065 - __main__ - INFO - CONFigure:RAND 7872,0
+2018-07-07 16:07:58,082 - __main__ - INFO - Error: Timeout on read
+2018-07-07 16:07:58,986 - __main__ - INFO - CONFigure:RAND 0638,0
+2018-07-07 16:08:00,000 - __main__ - INFO - 
+2018-07-07 16:08:00,904 - __main__ - INFO - CONFigure:RAND 0047,0
+2018-07-07 16:08:01,918 - __main__ - INFO - 
+2018-07-07 16:08:02,823 - __main__ - INFO - CONFigure:RAND 8201,0
+2018-07-07 16:08:03,838 - __main__ - INFO - 
+2018-07-07 16:08:04,743 - __main__ - INFO - CONFigure:RAND 0545,0
+2018-07-07 16:08:05,756 - __main__ - INFO - 
+2018-07-07 16:08:06,661 - __main__ - INFO - CONFigure:RAND 5321,0
+2018-07-07 16:08:06,677 - __main__ - INFO - Error: Timeout on read
+2018-07-07 16:08:07,582 - __main__ - INFO - CONFigure:RAND 3401,0
+2018-07-07 16:08:07,598 - __main__ - INFO - OK
+2018-07-07 16:08:08,502 - __main__ - INFO - CONFigure:RAND 3158,0
+2018-07-07 16:08:08,517 - __main__ - INFO - OK
+2018-07-07 16:08:09,423 - __main__ - INFO - CONFigure:RAND 2636,0
+2018-07-07 16:08:09,437 - __main__ - INFO - OK
+2018-07-07 16:08:10,342 - __main__ - INFO - CONFigure:RAND 3575,0
+2018-07-07 16:08:10,374 - __main__ - INFO - OK
+2018-07-07 16:08:11,279 - __main__ - INFO - CONFigure:RAND 0037,0
+2018-07-07 16:08:11,309 - __main__ - INFO - OK
+2018-07-07 16:08:12,214 - __main__ - INFO - CONFigure:RAND 1315,0
+2018-07-07 16:08:12,246 - __main__ - INFO - OK
+2018-07-07 16:08:13,151 - __main__ - INFO - CONFigure:RAND 8100,0
+2018-07-07 16:08:13,181 - __main__ - INFO - OK
+2018-07-07 16:08:14,086 - __main__ - INFO - CONFigure:RAND 7850,0
+2018-07-07 16:08:14,118 - __main__ - INFO - OK
+2018-07-07 16:08:15,023 - __main__ - INFO - CONFigure:RAND 8513,0
+2018-07-07 16:08:15,053 - __main__ - INFO - OK
+2018-07-07 16:08:15,974 - __main__ - INFO - CONFigure:RAND 2017,0
+2018-07-07 16:08:15,990 - __main__ - INFO - OK
+2018-07-07 16:08:16,911 - __main__ - INFO - CONFigure:RAND 8503,0
+2018-07-07 16:08:16,926 - __main__ - INFO - OK
+2018-07-07 16:08:17,846 - __main__ - INFO - CONFigure:RAND 9911,0
+2018-07-07 16:08:17,861 - __main__ - INFO - OK
+2018-07-07 16:08:18,782 - __main__ - INFO - CONFigure:RAND 5563,0
+2018-07-07 16:08:18,798 - __main__ - INFO - OK
+2018-07-07 16:08:19,703 - __main__ - INFO - CONFigure:RAND 1126,0
+2018-07-07 16:08:19,719 - __main__ - INFO - OK
+2018-07-07 16:08:20,638 - __main__ - INFO - CONFigure:RAND 3282,0
+2018-07-07 16:08:20,654 - __main__ - INFO - OK
+2018-07-07 16:08:21,575 - __main__ - INFO - CONFigure:RAND 1005,0
+2018-07-07 16:08:21,591 - __main__ - INFO - OK
+2018-07-07 16:08:22,510 - __main__ - INFO - CONFigure:RAND 1165,0
+2018-07-07 16:08:22,526 - __main__ - INFO - OK
+2018-07-07 16:08:23,447 - __main__ - INFO - CONFigure:RAND 3906,0
+2018-07-07 16:08:23,463 - __main__ - INFO - OK
+2018-07-07 16:08:24,382 - __main__ - INFO - CONFigure:RAND 1970,0
+2018-07-07 16:08:24,398 - __main__ - INFO - OK
+2018-07-07 16:08:25,319 - __main__ - INFO - CONFigure:RAND 3492,0
+2018-07-07 16:08:25,349 - __main__ - INFO - OK
+2018-07-07 16:08:26,270 - __main__ - INFO - CONFigure:RAND 4034,0
+2018-07-07 16:08:26,286 - __main__ - INFO - OK
+2018-07-07 16:08:27,207 - __main__ - INFO - CONFigure:RAND 6013,0
+2018-07-07 16:08:27,221 - __main__ - INFO - OK
+2018-07-07 16:08:28,127 - __main__ - INFO - CONFigure:RAND 9504,0
+2018-07-07 16:08:28,142 - __main__ - INFO - OK
+2018-07-07 16:08:29,062 - __main__ - INFO - CONFigure:RAND 7104,0
+2018-07-07 16:08:29,078 - __main__ - INFO - OK
+2018-07-07 16:08:29,999 - __main__ - INFO - CONFigure:RAND 1160,0
+2018-07-07 16:08:30,015 - __main__ - INFO - OK
+2018-07-07 16:08:30,934 - __main__ - INFO - CONFigure:RAND 8045,0
+2018-07-07 16:08:30,982 - __main__ - INFO - OK
+2018-07-07 16:08:31,901 - __main__ - INFO - CONFigure:RAND 6441,0
+2018-07-07 16:08:31,917 - __main__ - INFO - OK
+2018-07-07 16:08:32,838 - __main__ - INFO - CONFigure:RAND 1605,0
+2018-07-07 16:08:32,854 - __main__ - INFO - OK
+2018-07-07 16:08:33,821 - __main__ - INFO - CONFigure:RAND 7555,0
+2018-07-07 16:08:33,836 - __main__ - INFO - OK
+2018-07-07 16:08:34,756 - __main__ - INFO - CONFigure:RAND 5543,0
+2018-07-07 16:08:34,773 - __main__ - INFO - OK
+2018-07-07 16:08:35,677 - __main__ - INFO - CONFigure:RAND 6788,0
+2018-07-07 16:08:35,693 - __main__ - INFO - OK
+2018-07-07 16:08:36,598 - __main__ - INFO - CONFigure:RAND 0372,0
+2018-07-07 16:08:36,614 - __main__ - INFO - OK
+2018-07-07 16:08:37,517 - __main__ - INFO - CONFigure:RAND 2276,0
+2018-07-07 16:08:37,533 - __main__ - INFO - OK
+2018-07-07 16:08:38,438 - __main__ - INFO - CONFigure:RAND 1243,0
+2018-07-07 16:08:38,470 - __main__ - INFO - OK
+2018-07-07 16:08:39,375 - __main__ - INFO - CONFigure:RAND 1153,0
+2018-07-07 16:08:39,390 - __main__ - INFO - OK
+2018-07-07 16:08:40,295 - __main__ - INFO - CONFigure:RAND 0366,0
+2018-07-07 16:08:40,311 - __main__ - INFO - OK
+2018-07-07 16:08:41,216 - __main__ - INFO - CONFigure:RAND 0017,0
+2018-07-07 16:08:41,230 - __main__ - INFO - OK
+2018-07-07 16:08:42,135 - __main__ - INFO - CONFigure:RAND 7005,0
+2018-07-07 16:08:42,151 - __main__ - INFO - OK
+2018-07-07 16:08:43,055 - __main__ - INFO - CONFigure:RAND 5285,0
+2018-07-07 16:08:43,072 - __main__ - INFO - OK
+2018-07-07 16:08:43,976 - __main__ - INFO - CONFigure:RAND 4640,0
+2018-07-07 16:08:44,023 - __main__ - INFO - OK
+2018-07-07 16:08:44,927 - __main__ - INFO - CONFigure:RAND 5302,0
+2018-07-07 16:08:44,944 - __main__ - INFO - OK
+2018-07-07 16:08:45,848 - __main__ - INFO - CONFigure:RAND 3738,0
+2018-07-07 16:08:45,864 - __main__ - INFO - OK
+2018-07-07 16:08:49,779 - __main__ - INFO - CONFigure:RAND 1320,0
+2018-07-07 16:08:49,796 - __main__ - INFO - OK
+2018-07-07 16:08:50,700 - __main__ - INFO - CONFigure:RAND 3820,0
+2018-07-07 16:08:50,716 - __main__ - INFO - OK
+2018-07-07 16:08:51,621 - __main__ - INFO - CONFigure:RAND 8017,0
+2018-07-07 16:08:51,635 - __main__ - INFO - OK
+2018-07-07 16:08:52,540 - __main__ - INFO - CONFigure:RAND 4434,0
+2018-07-07 16:08:52,572 - __main__ - INFO - OK
+2018-07-07 16:08:53,476 - __main__ - INFO - CONFigure:RAND 8811,0
+2018-07-07 16:08:53,507 - __main__ - INFO - OK
+2018-07-07 16:08:54,413 - __main__ - INFO - CONFigure:RAND 9444,0
+2018-07-07 16:08:54,428 - __main__ - INFO - OK
+2018-07-07 16:08:55,334 - __main__ - INFO - CONFigure:RAND 4130,0
+2018-07-07 16:08:55,365 - __main__ - INFO - OK
+2018-07-07 16:08:56,269 - __main__ - INFO - CONFigure:RAND 1783,0
+2018-07-07 16:08:56,285 - __main__ - INFO - OK
+2018-07-07 16:08:57,190 - __main__ - INFO - CONFigure:RAND 3102,0
+2018-07-07 16:08:57,206 - __main__ - INFO - OK
+2018-07-07 16:08:58,109 - __main__ - INFO - CONFigure:RAND 1720,0
+2018-07-07 16:08:58,125 - __main__ - INFO - OK
+2018-07-07 16:08:59,030 - __main__ - INFO - CONFigure:RAND 2673,0
+2018-07-07 16:08:59,062 - __main__ - INFO - OK
+2018-07-07 16:08:59,967 - __main__ - INFO - CONFigure:RAND 2591,0
+2018-07-07 16:08:59,997 - __main__ - INFO - OK
+2018-07-07 16:09:00,903 - __main__ - INFO - CONFigure:RAND 1186,0
+2018-07-07 16:09:00,934 - __main__ - INFO - OK
+2018-07-07 16:09:01,838 - __main__ - INFO - CONFigure:RAND 8248,0
+2018-07-07 16:09:01,869 - __main__ - INFO - OK
+2018-07-07 16:09:02,775 - __main__ - INFO - CONFigure:RAND 3368,0
+2018-07-07 16:09:02,789 - __main__ - INFO - OK
+2018-07-07 16:09:03,710 - __main__ - INFO - CONFigure:RAND 9420,0
+2018-07-07 16:09:03,726 - __main__ - INFO - OK
+2018-07-07 16:09:04,631 - __main__ - INFO - CONFigure:RAND 5412,0
+2018-07-07 16:09:04,661 - __main__ - INFO - OK
+2018-07-07 16:09:05,582 - __main__ - INFO - CONFigure:RAND 1309,0
+2018-07-07 16:09:05,598 - __main__ - INFO - OK
+2018-07-07 16:09:06,519 - __main__ - INFO - CONFigure:RAND 3714,0
+2018-07-07 16:09:06,533 - __main__ - INFO - OK
+2018-07-07 16:09:07,454 - __main__ - INFO - CONFigure:RAND 7437,0
+2018-07-07 16:09:07,470 - __main__ - INFO - OK
+2018-07-07 16:09:08,391 - __main__ - INFO - CONFigure:RAND 1237,0
+2018-07-07 16:09:08,407 - __main__ - INFO - OK
+2018-07-07 16:09:09,326 - __main__ - INFO - CONFigure:RAND 1802,0
+2018-07-07 16:09:09,342 - __main__ - INFO - OK
+2018-07-07 16:09:10,263 - __main__ - INFO - CONFigure:RAND 2544,0
+2018-07-07 16:09:10,293 - __main__ - INFO - OK
+2018-07-07 16:09:11,214 - __main__ - INFO - CONFigure:RAND 0131,0
+2018-07-07 16:09:11,230 - __main__ - INFO - OK
+2018-07-07 16:09:12,134 - __main__ - INFO - CONFigure:RAND 1522,0
+2018-07-07 16:09:12,151 - __main__ - INFO - OK
+2018-07-07 16:09:13,055 - __main__ - INFO - CONFigure:RAND 0241,0
+2018-07-07 16:09:13,071 - __main__ - INFO - OK
+2018-07-07 16:09:13,990 - __main__ - INFO - CONFigure:RAND 5386,0
+2018-07-07 16:09:14,006 - __main__ - INFO - OK
+2018-07-07 16:09:14,927 - __main__ - INFO - CONFigure:RAND 1040,0
+2018-07-07 16:09:14,943 - __main__ - INFO - OK
+2018-07-07 16:09:15,848 - __main__ - INFO - CONFigure:RAND 6927,0
+2018-07-07 16:09:15,878 - __main__ - INFO - OK
+2018-07-07 16:09:16,799 - __main__ - INFO - CONFigure:RAND 9517,0
+2018-07-07 16:09:16,815 - __main__ - INFO - OK
+2018-07-07 16:09:17,734 - __main__ - INFO - CONFigure:RAND 6802,0
+2018-07-07 16:09:17,750 - __main__ - INFO - OK
+2018-07-07 16:09:18,671 - __main__ - INFO - CONFigure:RAND 3494,0
+2018-07-07 16:09:18,687 - __main__ - INFO - OK
+2018-07-07 16:09:19,607 - __main__ - INFO - CONFigure:RAND 5504,0
+2018-07-07 16:09:19,622 - __main__ - INFO - OK
+2018-07-07 16:09:20,542 - __main__ - INFO - CONFigure:RAND 1438,0
+2018-07-07 16:09:20,559 - __main__ - INFO - OK
+2018-07-07 16:09:21,479 - __main__ - INFO - CONFigure:RAND 7219,0
+2018-07-07 16:09:21,494 - __main__ - INFO - OK
+2018-07-07 16:09:22,414 - __main__ - INFO - CONFigure:RAND 2173,0
+2018-07-07 16:09:22,430 - __main__ - INFO - OK
+2018-07-07 16:09:23,335 - __main__ - INFO - CONFigure:RAND 6132,0
+2018-07-07 16:09:23,351 - __main__ - INFO - OK
+2018-07-07 16:09:24,256 - __main__ - INFO - CONFigure:RAND 6403,0
+2018-07-07 16:09:24,272 - __main__ - INFO - OK
+2018-07-07 16:09:25,177 - __main__ - INFO - CONFigure:RAND 9642,0
+2018-07-07 16:09:25,191 - __main__ - INFO - OK
+2018-07-07 16:09:26,096 - __main__ - INFO - CONFigure:RAND 4831,0
+2018-07-07 16:09:26,112 - __main__ - INFO - OK
+2018-07-07 16:09:27,016 - __main__ - INFO - CONFigure:RAND 5815,0
+2018-07-07 16:09:27,032 - __main__ - INFO - OK
+2018-07-07 16:09:27,937 - __main__ - INFO - CONFigure:RAND 3020,0
+2018-07-07 16:09:27,969 - __main__ - INFO - OK
+2018-07-07 16:09:28,874 - __main__ - INFO - CONFigure:RAND 4581,0
+2018-07-07 16:09:28,888 - __main__ - INFO - OK
+2018-07-07 16:09:29,793 - __main__ - INFO - CONFigure:RAND 9185,0
+2018-07-07 16:09:29,809 - __main__ - INFO - OK
+2018-07-07 16:09:30,714 - __main__ - INFO - CONFigure:RAND 1383,0
+2018-07-07 16:09:30,730 - __main__ - INFO - OK
